@@ -140,9 +140,6 @@ export const authConfig = {
 
 To implement authentication in your application, you would have to create an Auth0 application and copy "domain" and "client id" to the `config.ts` file in the `client` folder. We recommend using asymmetrically encrypted JWT tokens.
 
-# Best practices
-
-To complete this exercise, please follow the best practices from the 6th lesson of this course.
 
 ## Logging
 
